@@ -1,6 +1,0 @@
-13.11.2017.
-- uveo:
-mul a, c
-div a, c
-xor a, b
-xor a, c
